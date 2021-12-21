@@ -74,7 +74,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Plan de Mercadeo',
+            titulo: 'Plan de mercadeo',
             hash: 't_2_3',
           },
           {
@@ -158,7 +158,7 @@ export default {
     },
     {
       referencia:
-        'Decreto ley 3743 de 1951. [Presidencia de la República]. Por el cual se expide el Código Sustantivo del Trabajo. Diciembre 20 de 1950. ',
+        'Decreto Ley 3743 de 1951. [Presidencia de la República]. Por el cual se expide el Código Sustantivo del Trabajo. Diciembre 20 de 1950. ',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html',
     },
@@ -170,13 +170,13 @@ export default {
     },
     {
       referencia:
-        'Ministerio del trabajo (2019). Cotización a la Seguridad Social – Aportes. ',
+        'Ministerio del Trabajo (2019). Cotización a la Seguridad Social – Aportes. ',
       link:
         'https://www.mintrabajo.gov.co/empleo-y-pensiones/empleo/subdireccion-de-formalizacion-y-proteccion-del-empleo/formalizacion-laboral/cotizacion-a-la-seguridad-social-aportes',
     },
     {
       referencia:
-        'Ministerio del trabajo (2019). Implementación de los sistemas de gestión de seguridad y salud en el trabajo al año 2020. ',
+        'Ministerio del Trabajo (2019). Implementación de los Sistemas de Gestión de Seguridad y Salud en el Trabajo al Año 2020. ',
       link:
         'https://www.mintrabajo.gov.co/relaciones-laborales/riesgos-laborales/sistema-de-gestion-de-seguridad-y-salud-en-el-trabajo/implementacion-de-los-sistemas-de-gestion-de-seguridad-y-salud-en-el-trabajo-al-ano-2020',
     },
@@ -186,22 +186,18 @@ export default {
     },
     {
       referencia:
-        'Planas F. E. (2018). Todo sobre la gestión de su empresa. Editorial de Vecchi. ',
+        'Planas, F. E. (2018). Todo sobre la gestión de la empresa. Editorial de Vecchi. ',
       link:
         'https://es.scribd.com/read/388236109/Todo-sobre-la-gestion-de-su-empresa',
     },
     {
       referencia:
-        'Rincón C. y Narváez J. (2017) Presupuestos bajo normas internacionales de información financiera y taxonomía XBRL. Ediciones de la U. ',
+        'Rincón, C. y Narváez J. (2017). Presupuestos bajo normas internacionales de información financiera y taxonomía XBRL. Ediciones de la U. ',
       link:
         'https://es.scribd.com/read/436221926/Presupuestos-Bajo-normas-internacionales-de-informacion-financiera-y-taxonomia-XBRL',
     },
   ],
   glosario: [
-    {
-      termino: 'Persona natural',
-      significado: 'Individuo de la raza humana con derechos y obligaciones.',
-    },
     {
       termino: 'Empresa',
       significado:
@@ -259,26 +255,26 @@ export default {
   complementario: [
     {
       texto:
-        'Perez A. (2019). Plan de producción de una empresa: el pilar de toda buena gestión corporativa.',
+        'Pérez, A. (2019). Plan de producción de una empresa: el pilar de toda buena gestión corporativa.',
       tipo: 'Artículo web',
       link:
         'https://www.obsbusiness.school/blog/plan-de-produccion-de-una-empresa-el-pilar-de-toda-buena-gestion-corporativa',
     },
     {
       texto:
-        'Padilla F. (2016). Costos por órdenes de producción [video]. Youtube.',
+        'Padilla, F. (2016). Costos por órdenes de producción [video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=xQG946KNQvg',
     },
     {
       texto:
-        'Oliveros R. (2016). Ms Excel 5 Fórmulas nómina completa [video]. Youtube.',
+        'Oliveros, R. (2016). Ms Excel 5 Fórmulas nómina completa [video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=KdZLNPyLGmk',
     },
     {
       texto:
-        'VideoTips Docentes (2015). Costos I - Costos indirectos de fabricación [video]. Youtube.',
+        'VideoTups Docentes (2015). Costos I - Costos indirectos de fabricación [video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=oGrkHeP5pY4',
     },
@@ -296,28 +292,28 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro industrial del diseño y la manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Andrés Felipe Avilan Lozano',
         cargo: 'Experto temático',
-        centro: 'Centro Agropecuario la granja - Regional Tolima',
+        centro: 'Centro Agropecuario La Granja - Regional Tolima',
       },
       {
         nombre: 'Luis Fernando Botero Mendoza',
-        cargo: 'Diseñador Instruccional',
-        centro: 'Centro para la industria de la comunicación gráfica',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
       },
       {
         nombre: 'Carolina Coca Salazar',
-        cargo: 'Revisora Metodológica y Pedagógica',
-        centro: 'Centro de diseño y metrología - Regional Distrito Capital',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'Jhon Jairo Rodríguez Pérez',
         cargo: 'Diseñador y evaluador instruccional',
         centro:
-          'Centro para la industria de la comunicación gráfica - Regional Distrito Capital',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -325,30 +321,78 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro industrial del diseño y la manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de comercio y servicios - Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Antonio Vecino Valero',
+        nombre: 'Jesús Antonio Vecino Valero',
         cargo: 'Diseño web',
         centro:
-          'Centro industrial del diseño y la manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy Maria Ruiz Torres',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro industrial del diseño y la manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Caceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Andrés Felipe Herrera Roldan',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'José Jaime Luis Tang Pinzón',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ricardo Vásquez Arroyave',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Carlos Eduardo Garavito Parada',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Jhon Jairo Urueta Alvarez',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
-          'Centro industrial del diseño y la manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Andrés Mauricio Santaella Ochoa',
@@ -357,27 +401,27 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro industrial del diseño y la manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Álvaro Andrés Angarita Ramirez',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de comercio y servicios - Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Daniel Felipe Varón Molina',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de comercio y servicios - Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de comercio y servicios - Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
