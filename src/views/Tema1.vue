@@ -15,7 +15,7 @@
       .col-12.px-5
         .row.mb-5(data-aos="slide-left")
           .col-lg-7
-            p.mb-4 La relevancia de las empresas es tan elevada que la normatividad colombiana cuenta con diversas reglas que la definen y regulan. El ejemplo más claro lo contiene el Código de C omercio de 1971, considerado el compendio de normas comerciales más importante en Colombia; allí se define de la siguiente forma:
+            p.mb-4 La relevancia de las empresas es tan elevada que la normatividad colombiana cuenta con diversas reglas que la definen y regulan. El ejemplo más claro lo contiene el Código de Comercio de 1971, considerado el compendio de normas comerciales más importante en Colombia; allí se define de la siguiente forma:
             .row
               .col-12.p-4.bg-color2
                 p.mb-3 #[span.text-deco1 #[b ARTÍCULO 25. (EMPRESA - CONCEPTO)]]. Se entenderá por empresa toda actividad económica organizada para la producción, transformación, circulación, administración o custodia de bienes, o para la prestación de servicios. Dicha actividad se realizará a través de uno o más establecimientos de comercio (Código de Comercio, 1971, Artículo 25).
@@ -105,7 +105,7 @@
                     th(style="background-color: #3C6D9D; border-left: #AFAFAF 2px solid").text-white Termiación
                   tr
                     th(style="background-color: #F2F2F2") Sociedad en comandita simple 
-                    td(style="background-color: #F2F2F2; border-left: #AFAFAF 2px solid") S en C.
+                    td(style="background-color: #F2F2F2; border-left: #AFAFAF 2px solid") S. en C.
                   tr
                     th Sociedad en comandita por acciones
                     td(style="border-left: #AFAFAF 2px solid") S.C.A.
@@ -315,7 +315,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/LOOCn_JwAWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-5 Adicionalmente el Ministerio de Trabajo (2018) publicó un diagrama donde aclara comó debe ser implementado el sistema a partir del año 2020, por lo que se hace necesaria la lectura e interpretación de los requerimientos mínimos normativos, para implementar el modelo aplicable a cualquier empresa productora, ver figura 3.
+    p.mb-5 Adicionalmente el Ministerio de Trabajo (2018) publicó un diagrama donde aclara cómo debe ser implementado el sistema a partir del año 2020, por lo que se hace necesaria la lectura e interpretación de los requerimientos mínimos normativos, para implementar el modelo aplicable a cualquier empresa productora, ver figura 3.
     .row.justify-content-center
       .col-lg-8(data-aos="slide-left")
         .titulo-sexto.color-acento-contenido

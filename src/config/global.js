@@ -302,7 +302,8 @@ export default {
       {
         nombre: 'Luis Fernando Botero Mendoza',
         cargo: 'Diseñador instruccional',
-        centro: 'Centro para la Industria de la Comunicación Gráfica',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Carolina Coca Salazar',

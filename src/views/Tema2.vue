@@ -601,10 +601,10 @@
                 th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Vr. Unit.
                 th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Total
                 th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Cantidad
-                th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Vr. Total
+                th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Total
             tbody
               tr
-                td(style="background-color: #F6F6F6") Inventario inicial
+                td(style="background-color: #F6F6F6") #[b Inventario inicial]
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 10.000
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 30
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 10.000
@@ -615,7 +615,7 @@
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 30
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 300.000
               tr
-                td Compra 3 de marzo
+                td #[b Compra 3 de marzo]
                 td(style="border-left: #AFAFAF 2px solid; border-left: #AFAFAF 2px solid") 13.000
                 td(style="border-left: #AFAFAF 2px solid; border-left: #AFAFAF 2px solid") 15
                 td(style="border-left: #AFAFAF 2px solid; border-left: #AFAFAF 2px solid") 13.000
@@ -626,7 +626,7 @@
                 td(style="border-left: #AFAFAF 2px solid; border-left: #AFAFAF 2px solid") 45
                 td(style="border-left: #AFAFAF 2px solid; border-left: #AFAFAF 2px solid") 495.000
               tr
-                td(style="background-color: #F6F6F6") Compra 12 de marzo
+                td(style="background-color: #F6F6F6") #[b Compra 12 de marzo]
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 15.000
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 25
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 15.000
@@ -637,7 +637,7 @@
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 70
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 870.000
               tr
-                td(rowspan="3") Orden de producción 11 (20 unidades)
+                td(rowspan="3") #[b Orden de producción 11 (20 unidades)]
                 td(style="border-left: #AFAFAF 2px solid") 10.000
                 td(style="border-left: #AFAFAF 2px solid")
                 td(style="border-left: #AFAFAF 2px solid")
@@ -668,7 +668,7 @@
                 td(style="border-left: #AFAFAF 2px solid")
                 td(style="border-left: #AFAFAF 2px solid") 670.000
               tr
-                td(style="background-color: #F6F6F6")(rowspan="3") Orden de producción 12 (18 unidades)
+                td(style="background-color: #F6F6F6")(rowspan="3") #[b Orden de producción 12 (18 unidades)]
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 10.000
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid")
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid")
@@ -720,10 +720,10 @@
                 th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Vr. Unit.
                 th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Total
                 th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Cantidad
-                th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Vr. Total
+                th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Total
             tbody
               tr
-                td(style="background-color: #F6F6F6") Inventario inicial
+                td(style="background-color: #F6F6F6") #[b Inventario inicial]
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 10.000
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 30
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 10.000
@@ -734,7 +734,7 @@
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 30
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 300.000
               tr
-                td Compra 3 de marzo
+                td #[b Compra 3 de marzo]
                 td(style="border-left: #AFAFAF 2px solid") 11.000
                 td(style="border-left: #AFAFAF 2px solid") 15
                 td(style="border-left: #AFAFAF 2px solid") 13.000
@@ -745,7 +745,7 @@
                 td(style="border-left: #AFAFAF 2px solid") 45
                 td(style="border-left: #AFAFAF 2px solid") 495.000
               tr
-                td(style="background-color: #F6F6F6") Compra 12 de marzo
+                td(style="background-color: #F6F6F6") #[b Compra 12 de marzo]
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 12.429
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 25
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 15.000
@@ -756,7 +756,7 @@
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 70
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 870.000
               tr
-                td Orden de producción 11 (20 unidades)
+                td #[b Orden de producción 11 (20 unidades)]
                 td(style="border-left: #AFAFAF 2px solid") 12.429
                 td(style="border-left: #AFAFAF 2px solid")
                 td(style="border-left: #AFAFAF 2px solid")
@@ -767,7 +767,7 @@
                 td(style="border-left: #AFAFAF 2px solid") 50
                 td(style="border-left: #AFAFAF 2px solid") 621.429
               tr
-                td(style="background-color: #F6F6F6") Orden de producción 12 (18 unidades)
+                td(style="background-color: #F6F6F6") #[b Orden de producción 12 (18 unidades)]
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 12.429
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid")
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid")
@@ -779,9 +779,9 @@
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 397.714
     p.mb-5 De la comparación de las dos hojas de kárdex se evidencian diferencias en la valoración, pese a que la situación práctica fue la misma. Si bien la totalidad de la materia prima adquirida es la misma, la asignación a las órdenes de producción varía, lo que también afecta el valor del inventario final. La elección del sistema a utilizar dependerá del juicio del encargado del sistema de costeo, ambos modelos son adecuados y ofrecen un nivel razonable de precisión, ver tabla 3.
     .row.mb-5.justify-content-center
-      .col-12.col-lg-8
+      .col-12.col-lg-9
         .titulo-sexto.color-acento-contenido
-          p.mb-0 #[b Tabla 3.] Comparativa sistemas de evaluación de inventarios
+          p.mb-0 #[b Tabla 3.] Comparativa sistemas de valuación de inventarios
         .tabla-a.color-acento-botones
           table
             caption Nota. Sena (2021).
@@ -792,11 +792,11 @@
                 th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Promedio ponderado
             tbody
               tr
-                td(style="background-color: #F6F6F6") Costo de la materia prima
+                td(style="background-color: #F6F6F6") #[b Costo de la materia prima]
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 404.000
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 472.286
               tr
-                td Inventario final
+                td #[b Inventario final]
                 td(style="border-left: #AFAFAF 2px solid") 466.000
                 td(style="border-left: #AFAFAF 2px solid") 397.714
               tr
@@ -804,9 +804,9 @@
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid")
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid")
               tr
-                td Total materia prima
-                td(style="border-left: #AFAFAF 2px solid") 870.000
-                td(style="border-left: #AFAFAF 2px solid") 870.000
+                td #[b Total materia prima]
+                td(style="border-left: #AFAFAF 2px solid") #[b 870.000]
+                td(style="border-left: #AFAFAF 2px solid") #[b 870.000]
     h3.mb-4.text-deco1 #[u Mano de obra]
     .row.mb-5.bg-color7
       .col-12.px-5.pt-5
@@ -856,7 +856,7 @@
       .py-3.py-md-4(titulo="Cesantías")(style="border-bottom: #78B62E 3px solid")
         .row.align-items-center.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
-            h4 Cesantias
+            h4 Cesantías
             p Todo empleador está obligado a pagar a sus trabajadores y a las demás personas que se indican en este Capítulo, al terminar el contrato de trabajo, como auxilio de cesantía, un mes de salario por cada año de servicios y proporcionalmente por fracción de año (Código Sustantivo del Trabajo, 1950, Artículo 249).
           .col-lg-5
             figure
@@ -869,10 +869,10 @@
           .col-lg-5
             figure
               img(src='@/assets/curso/img41.png', style="width: 350px").m-auto
-      .py-3.py-md-4(titulo="Intereses de las cesantías")(style="border-bottom: #78B62E 3px solid")
+      .py-3.py-md-4(titulo="Intereses a las cesantías")(style="border-bottom: #78B62E 3px solid")
         .row.align-items-center.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
-            h4 Intereses de las cesantías
+            h4 Intereses a las cesantías
             p Todo patrono obligado a pagar cesantía a sus trabajadores conforme al Capítulo VII Título VIII, Parte 1ª, del Código Sustantivo del Trabajo y demás disposiciones concordantes, les reconocerá y pagará intereses del 12 % anual sobre los saldos que en 31 de diciembre de cada año, o en las fechas de retiro del trabajador o de liquidación parcial de cesantía, tenga este a su favor por concepto de cesantía (Ley 52, 1975, Artículo 1).
           .col-lg-5
             figure
@@ -912,23 +912,23 @@
                       th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Empleador/a
                   tbody
                     tr
-                      td(style="background-color: #F6F6F6") Vacaciones
+                      td(style="background-color: #F6F6F6") #[b Vacaciones]
                       td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 4.17 %
                     tr
-                      td Cesantías
+                      td #[b Cesantías]
                       td(style="border-left: #AFAFAF 2px solid") 8.33 %
                     tr
-                      td(style="background-color: #F6F6F6") Prima de servicios
+                      td(style="background-color: #F6F6F6") #[b Prima de servicios]
                       td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 8.33 %
                     tr
-                      td Intereses a las censantías
+                      td #[b Intereses a las censantías]
                       td(style="border-left: #AFAFAF 2px solid") 1 %
                     tr
-                      th(style="background-color: #F6F6F6") Total
-                      th(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 21.83 %
+                      td(style="background-color: #F6F6F6") #[b Total]
+                      td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") #[b 21.83 %]
     p.mb-5 Por otra parte, de forma adicional a lo mencionado previamente, los contratos laborales también obligan a los empleadores a asumir costos por la seguridad social del empleado, el Artículo #[b “Cotización a la Seguridad Social – Aportes”] publicado por el Ministerio del Trabajo aporta la siguiente tabla:
     .row.justify-content-center.mb-5
-      .col-12.col-lg-8
+      .col-12.col-lg-9
         .titulo-sexto.color-acento-contenido
           p.mb-0 #[b Tabla 5.] Aportes obligatorios a seguridad social
         .tabla-a.color-acento-botones
@@ -942,30 +942,30 @@
                 th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Total
             tbody
               tr
-                td(style="background-color: #F6F6F6") Pensiones
+                td(style="background-color: #F6F6F6") #[b Pensiones]
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 12 %
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 4 %
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 16 %
               tr
-                td Salud
+                td #[b Salud]
                 td(style="border-left: #AFAFAF 2px solid") 8,5 %
                 td(style="border-left: #AFAFAF 2px solid") 4 %
                 td(style="border-left: #AFAFAF 2px solid") 12,5 %
               tr
-                td(style="background-color: #F6F6F6") Riesgos laborales - Nivel 1
+                td(style="background-color: #F6F6F6") #[b Riesgos laborales - Nivel 1]
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 0,5 %
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid")
                 td(style="background-color: #F6F6F6; border-left: #AFAFAF 2px solid") 0,5 %
               tr
-                td Cajas de Compensación
+                td #[b Cajas de Compensación]
                 td(style="border-left: #AFAFAF 2px solid") 4 %
                 td(style="border-left: #AFAFAF 2px solid")
                 td(style="border-left: #AFAFAF 2px solid") 4 %
               tr
-                td(style="background-color: #F6F6F6") Total
-                td(style="background-color: #F6F6F6; ; border-left: #AFAFAF 2px solid") 25 %
-                td(style="background-color: #F6F6F6; ; border-left: #AFAFAF 2px solid") 8 %
-                td(style="background-color: #F6F6F6; ; border-left: #AFAFAF 2px solid") 33 %
+                td(style="background-color: #F6F6F6") #[b Total]
+                td(style="background-color: #F6F6F6; ; border-left: #AFAFAF 2px solid") #[b 25 %]
+                td(style="background-color: #F6F6F6; ; border-left: #AFAFAF 2px solid") #[b 8 %]
+                td(style="background-color: #F6F6F6; ; border-left: #AFAFAF 2px solid") #[b 33 %]
     .row.bg-color6
       .col-12.px-5
         .row.align-items-center.mb-5
@@ -1108,15 +1108,15 @@
                         th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Operario 2
                     tbody
                       tr
-                        td Costo Mensual
+                        td #[b Costo Mensual]
                         td(style="border-left: #AFAFAF 2px solid") 1.343.594
                         td(style="border-left: #AFAFAF 2px solid") 1.952.761
                       tr
-                        td Horas diarias de trabajo
+                        td #[b Horas diarias de trabajo]
                         td(style="border-left: #AFAFAF 2px solid") 8
                         td(style="border-left: #AFAFAF 2px solid") 8
                       tr
-                        td Días trabajados al mes
+                        td #[b Días trabajados al mes]
                         td(style="border-left: #AFAFAF 2px solid") 24
                         td(style="border-left: #AFAFAF 2px solid") 24
                       tr
@@ -1124,7 +1124,7 @@
                         td(style="border-left: #AFAFAF 2px solid")
                         td(style="border-left: #AFAFAF 2px solid")
                       tr
-                        td Horas de trabajo mensual
+                        td #[b Horas de trabajo mensual]
                         td(style="border-left: #AFAFAF 2px solid") 192
                         td(style="border-left: #AFAFAF 2px solid") 192
                       tr
@@ -1181,7 +1181,7 @@
           p.mb-4 #[b.text-deco1 Este tipo de situaciones implica que la asignación de los costos indirectos obedezca a la cantidad de unidades producidas en un periodo concreto]. Existen diversos elementos de juicio pero suelen converger en una apreciación, la asignación del costo estará supeditada a los niveles de producción de la planta.
     .row.mb-4
       .col-lg-7
-        p.mb-4 #[b.text-deco1 Si se producen varios productos en diversas líneas de producción, por ejemplo, en una granja pecuaria donde se produce leche y al mismo tiempo se vende la carne del ganado, la situación puede resultar más compleja]. Retomando el ejemplo anterior, el daño de una maquina de ordeño debe asignarse a la línea productiva de la leche, pero qué sucede entonces en casos como el salario del administrador, donde su trabajo es indistinto entre las dos líneas de producción.
+        p.mb-4 #[b.text-deco1 Si se producen varios productos en diversas líneas de producción, por ejemplo, en una granja pecuaria donde se produce leche y al mismo tiempo se vende la carne del ganado, la situación puede resultar más compleja]. Retomando el ejemplo anterior, el daño de una máquina de ordeño debe asignarse a la línea productiva de la leche, pero qué sucede entonces en casos como el salario del administrador, donde su trabajo es indistinto entre las dos líneas de producción.
         .row.align-items-center.mb-4
           .col-auto
             figure
@@ -1201,13 +1201,13 @@
                     th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Valor
                 tbody
                   tr
-                    td Depreciación
+                    td #[b Depreciación]
                     td(style="border-left: #AFAFAF 2px solid") 1.200.000
                   tr
-                    td Servicios públicos
+                    td #[b Servicios públicos]
                     td(style="border-left: #AFAFAF 2px solid") 250.000
                   tr
-                    td Vigilancia
+                    td #[b Vigilancia]
                     td(style="border-left: #AFAFAF 2px solid") 1.500.000
                   tr
                     td #[b Total CIF]
@@ -1235,11 +1235,11 @@
                     th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Unidades producidas
                 tbody
                   tr
-                    td Producto A
+                    td #[b Producto A]
                     td(style="border-left: #AFAFAF 2px solid") 250
                     td(style="border-left: #AFAFAF 2px solid") 200
                   tr
-                    td Producto B
+                    td #[b Producto B]
                     td(style="border-left: #AFAFAF 2px solid") 134
                     td(style="border-left: #AFAFAF 2px solid") 100
                   tr
@@ -1262,12 +1262,12 @@
                     th(style="background-color: #BADA95; border-left: #AFAFAF 2px solid") Costo indirecto unitario
                 tbody
                   tr
-                    td Producto A
+                    td #[b Producto A]
                     td(style="border-left: #AFAFAF 2px solid") 1.920.573
                     td(style="border-left: #AFAFAF 2px solid") 200
                     td(style="border-left: #AFAFAF 2px solid") 9.603
                   tr
-                    td Producto B
+                    td #[b Producto B]
                     td(style="border-left: #AFAFAF 2px solid") 1.029.427
                     td(style="border-left: #AFAFAF 2px solid") 100
                     td(style="border-left: #AFAFAF 2px solid") 10.294
