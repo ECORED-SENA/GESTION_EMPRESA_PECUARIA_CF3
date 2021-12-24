@@ -104,20 +104,20 @@
                     th(style="background-color: #3C6D9D").text-white Tipo societario
                     th(style="background-color: #3C6D9D; border-left: #AFAFAF 2px solid").text-white Termiación
                   tr
-                    th(style="background-color: #F2F2F2") Sociedad en comandita simple 
-                    td(style="background-color: #F2F2F2; border-left: #AFAFAF 2px solid") S. en C.
+                    th(style="background-color: #E1E8E8") Sociedad en comandita simple 
+                    td(style="background-color: #E1E8E8; border-left: #AFAFAF 2px solid") S. en C.
                   tr
-                    th Sociedad en comandita por acciones
-                    td(style="border-left: #AFAFAF 2px solid") S.C.A.
+                    th(style="background-color: #FFFFFF") Sociedad en comandita por acciones
+                    td(style="background-color: #FFFFFF; border-left: #AFAFAF 2px solid") S.C.A.
                   tr
-                    th(style="background-color: #F2F2F2") Sociedad de responsabilidad limitada
-                    td(style="background-color: #F2F2F2; border-left: #AFAFAF 2px solid") Ltda.
+                    th(style="background-color: #E1E8E8") Sociedad de responsabilidad limitada
+                    td(style="background-color: #E1E8E8; border-left: #AFAFAF 2px solid") Ltda.
                   tr
-                    th Sociedad anónima
-                    td(style="border-left: #AFAFAF 2px solid") S.A.
+                    th(style="background-color: #FFFFFF") Sociedad anónima
+                    td(style="background-color: #FFFFFF; border-left: #AFAFAF 2px solid") S.A.
                   tr
-                    th(style="border-bottom: 2px #3C6D9D solid; background-color: #F2F2F2") Sociedad por acciones simplificada
-                    td(style="border-bottom: 2px #3C6D9D solid; background-color: #F2F2F2; border-left: #AFAFAF 2px solid") S.A.S.
+                    th(style="background-color: #E1E8E8") Sociedad por acciones simplificada
+                    td(style="background-color: #E1E8E8; border-left: #AFAFAF 2px solid") S.A.S.
           .row(numero="2" titulo="Autónomas").align-items-center
             .col-lg-6.mb-4.mb-lg-0
               figure
@@ -151,25 +151,25 @@
               th(style="background-color: #3C6D9D; border-left: #AFAFAF 2px solid").text-white Servicios
               th(style="background-color: #3C6D9D; border-left: #AFAFAF 2px solid").text-white Comercio
             tr
-              th Microempresa
-              td(style="border-left: #AFAFAF 2px solid") Menores o iguales a 23.563.
-              td(style="border-left: #AFAFAF 2px solid") Menores o iguales a 32.988.
-              td(style="border-left: #AFAFAF 2px solid") Menores o iguales a 44.769.
+              th(style="background-color: #E1E8E8") Microempresa
+              td(style="background-color: #E1E8E8; border-left: #AFAFAF 2px solid") Menores o iguales a 23.563.
+              td(style="background-color: #E1E8E8; border-left: #AFAFAF 2px solid") Menores o iguales a 32.988.
+              td(style="background-color: #E1E8E8; border-left: #AFAFAF 2px solid") Menores o iguales a 44.769.
             tr
-              th Pequeña
-              td(style="border-left: #AFAFAF 2px solid") Mayores a 23.563 y menores o iguales a 204.995.
-              td(style="border-left: #AFAFAF 2px solid") Mayores a 32.988 y menores o iguales a 131.951.
-              td(style="border-left: #AFAFAF 2px solid") Mayores a 44.769 y menores o iguales a 431.196.
+              th(style="background-color: #FFFFFF") Pequeña
+              td(style="background-color: #FFFFFF; border-left: #AFAFAF 2px solid") Mayores a 23.563 y menores o iguales a 204.995.
+              td(style="background-color: #FFFFFF; border-left: #AFAFAF 2px solid") Mayores a 32.988 y menores o iguales a 131.951.
+              td(style="background-color: #FFFFFF; border-left: #AFAFAF 2px solid") Mayores a 44.769 y menores o iguales a 431.196.
             tr
-              th Mediana
-              td(style="border-left: #AFAFAF 2px solid") Mayores a 204.995 y menores o iguales a 1’736.565.
-              td(style="border-left: #AFAFAF 2px solid") Mayores a 131.951 y menores o iguales a 483.034.
-              td(style="border-left: #AFAFAF 2px solid") Mayores a 431.196 y menores o iguales a 2’160.692.
+              th(style="background-color: #E1E8E8") Mediana
+              td(style="background-color: #E1E8E8; border-left: #AFAFAF 2px solid") Mayores a 204.995 y menores o iguales a 1’736.565.
+              td(style="background-color: #E1E8E8; border-left: #AFAFAF 2px solid") Mayores a 131.951 y menores o iguales a 483.034.
+              td(style="background-color: #E1E8E8; border-left: #AFAFAF 2px solid") Mayores a 431.196 y menores o iguales a 2’160.692.
             tr
-              th(style="border-bottom: 2px #3C6D9D solid") Grande
-              td(style="border-bottom: 2px #3C6D9D solid; border-left: #AFAFAF 2px solid") Mayores a 1’736.565.
-              td(style="border-bottom: 2px #3C6D9D solid; border-left: #AFAFAF 2px solid") Mayores a 483.034.
-              td(style="border-bottom: 2px #3C6D9D solid; border-left: #AFAFAF 2px solid") Mayores a 2’160.692.
+              th(style="background-color: #FFFFFF; border-bottom: 2px #3C6D9D solid") Grande
+              td(style="background-color: #FFFFFF; border-bottom: 2px #3C6D9D solid; border-left: #AFAFAF 2px solid") Mayores a 1’736.565.
+              td(style="background-color: #FFFFFF; border-bottom: 2px #3C6D9D solid; border-left: #AFAFAF 2px solid") Mayores a 483.034.
+              td(style="background-color: #FFFFFF; border-bottom: 2px #3C6D9D solid; border-left: #AFAFAF 2px solid") Mayores a 2’160.692.
     .row.bg-color5
       .col-12.px-5
         separador.mb-5

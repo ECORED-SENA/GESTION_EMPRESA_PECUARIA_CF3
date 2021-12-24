@@ -397,7 +397,7 @@
     p.mb-5 Generalmente, #[b la demanda de los productos obedece a muchos factores sobre los cuales la empresa no siempre tiene control; condiciones económicas, políticas públicas y la competencia, son solo algunos de ellos]. Debido a esto, lo más habitual #[b.text-deco1 a la hora de diseñar un ciclo productivo, es que el plan de mercadeo haga de punto de partida en el ciclo productivo y posteriormente se debe tener en cuenta lo siguiente:]
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/YHP2t8J54K8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/RbnVKRrsk8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     separador.mb-5
     #t_2_4
     .titulo-segundo.color-secundario
