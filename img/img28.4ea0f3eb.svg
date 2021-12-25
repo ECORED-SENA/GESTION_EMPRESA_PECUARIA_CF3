@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="925" height="254" viewBox="0 0 925 254">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_42347" data-name="Rectángulo 42347" width="925" height="254" rx="26" transform="translate(0 0)" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4090de"/>
+      <stop offset="1" stop-color="#3c6d9d"/>
+    </linearGradient>
+  </defs>
+  <g id="Enmascarar_grupo_79963" data-name="Enmascarar grupo 79963" transform="translate(0)" clip-path="url(#clip-path)">
+    <path id="Trazado_184487" data-name="Trazado 184487" d="M0,0H1407.474V433.243H0Z" transform="translate(-482.011 -105.476)" fill="#f7f4f4"/>
+    <g id="Grupo_143210" data-name="Grupo 143210" transform="translate(232.52 -46.328)">
+      <path id="Trazado_184488" data-name="Trazado 184488" d="M0,0H641.947V245.88H0Z" transform="translate(0 0)" fill="none"/>
+    </g>
+    <path id="Trazado_184489" data-name="Trazado 184489" d="M152.244,0H360.713L-464.314,435.147H-672.783Z" transform="translate(-378.025 -165)" fill="#1565c0" opacity="0.064" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <path id="Trazado_184490" data-name="Trazado 184490" d="M-143.234,0H-9.427L-538.976,279.3H-672.783Z" transform="translate(-265.306 -78.824)" fill="#1565c0" opacity="0.064" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <path id="Trazado_184491" data-name="Trazado 184491" d="M-276.719,0h100.078L-572.705,208.9H-672.783Z" transform="translate(1284.678 165.698)" opacity="0.064" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <path id="Trazado_184492" data-name="Trazado 184492" d="M-276.719,0h100.078L-572.705,208.9H-672.783Z" transform="translate(1306.751 165.698)" opacity="0.064" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <path id="Trazado_184493" data-name="Trazado 184493" d="M181.676,0H397.582L-456.877,450.67H-672.783Z" transform="translate(655.471 -107.273)" opacity="0.064" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <path id="Trazado_184494" data-name="Trazado 184494" d="M165.743,0,587.267,8.4-251.259,450.67l-421.524-8.4Z" transform="translate(407.366 -107.273)" opacity="0.064" fill="url(#linear-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+  </g>
+</svg>
